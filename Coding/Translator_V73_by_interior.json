@@ -1,0 +1,3404 @@
+{
+  "Facility": {
+    "Room": [
+      {
+        "4x4BigStairTile": "4x4BigStairTile"
+      },
+      {
+        "4x4ServerRoomTile": "4x4ServerRoomTile"
+      },
+      {
+        "CatwalkTile2x1": "CatwalkTile2x1"
+      },
+      {
+        "CatwalkTile2x1Split": "CatwalkTile2x1Split"
+      },
+      {
+        "Diagonal1Tile": "Diagonal1Tile"
+      },
+      {
+        "DoubleDoorRoom": "DoubleDoorRoom"
+      },
+      {
+        "ElevatorConnector": "ElevatorConnector"
+      },
+      {
+        "HallwayCloverIntersection": "HallwayCloverIntersection"
+      },
+      {
+        "HallwayCloverInverse": "HallwayCloverInverse"
+      },
+      {
+        "HallwayCorner": "HallwayCorner"
+      },
+      {
+        "LargeForkTileB": "LargeForkTileB"
+      },
+      {
+        "MediumRoomHallway1B": "MediumRoomHallway1B"
+      },
+      {
+        "SmallLRoom": "SmallLRoom"
+      },
+      {
+        "SmallPillarRoom": "SmallPillarRoom"
+      },
+      {
+        "SmallRoom2": "SmallRoom2"
+      },
+      {
+        "SmallStairTile": "SmallStairTile"
+      },
+      {
+        "StartRoom": "StartRoom"
+      },
+      {
+        "THallwayIntersectionB": "THallwayIntersectionB"
+      }
+    ],
+    "Decoratif": [
+      {
+        "4x4ServerRoomTile": "4x4ServerRoomTile"
+      },
+      {
+        "AINodeE": "AINodeE"
+      },
+      {
+        "AINodeN": "AINodeN"
+      },
+      {
+        "AINodeS": "AINodeS"
+      },
+      {
+        "AINodeW": "AINodeW"
+      },
+      {
+        "AirConditionerUnit": "AirConditionerUnit"
+      },
+      {
+        "AmpBox": "AmpBox"
+      },
+      {
+        "AmpBox (1)": "AmpBox (1)"
+      },
+      {
+        "AmpBox (2)": "AmpBox (2)"
+      },
+      {
+        "AmpBox (3)": "AmpBox (3)"
+      },
+      {
+        "BackDoorWall": "BackDoorWall"
+      },
+      {
+        "BarsNoLamp": "BarsNoLamp"
+      },
+      {
+        "BarsOptimized": "BarsOptimized"
+      },
+      {
+        "BarsOptimized (1)": "BarsOptimized (1)"
+      },
+      {
+        "BarsOptimized (2)": "BarsOptimized (2)"
+      },
+      {
+        "BarsOptimized (3)": "BarsOptimized (3)"
+      },
+      {
+        "BarsOptimized (4)": "BarsOptimized (4)"
+      },
+      {
+        "BarsOptimized (5)": "BarsOptimized (5)"
+      },
+      {
+        "BarsOptimized (6)": "BarsOptimized (6)"
+      },
+      {
+        "BarsOptimized (7)": "BarsOptimized (7)"
+      },
+      {
+        "BeamCollider (3)": "BeamCollider (3)"
+      },
+      {
+        "BeamCollider (4)": "BeamCollider (4)"
+      },
+      {
+        "BezierCurve": "BezierCurve"
+      },
+      {
+        "BezierCurve.002": "BezierCurve.002"
+      },
+      {
+        "BezierCurve.003": "BezierCurve.003"
+      },
+      {
+        "BezierCurve.004": "BezierCurve.004"
+      },
+      {
+        "BigDoorSpawn": "BigDoorSpawn"
+      },
+      {
+        "Bottle": "Bottle"
+      },
+      {
+        "Bottle (1)": "Bottle (1)"
+      },
+      {
+        "BottleGroup": "BottleGroup"
+      },
+      {
+        "BottleGroup (1)": "BottleGroup (1)"
+      },
+      {
+        "Boxes (1)": "Boxes (1)"
+      },
+      {
+        "Boxes (2)": "Boxes (2)"
+      },
+      {
+        "Boxes (3)": "Boxes (3)"
+      },
+      {
+        "Boxes 0": "Boxes 0"
+      },
+      {
+        "BreakerBox": "BreakerBox"
+      },
+      {
+        "BreakerBoxSpawn": "BreakerBoxSpawn"
+      },
+      {
+        "BreakerBoxSpawn (1)": "BreakerBoxSpawn (1)"
+      },
+      {
+        "BreakerBoxSpawn (2)": "BreakerBoxSpawn (2)"
+      },
+      {
+        "BreakerBoxSpawn (3)": "BreakerBoxSpawn (3)"
+      },
+      {
+        "BreakerBoxSpawn (4)": "BreakerBoxSpawn (4)"
+      },
+      {
+        "BreakerBoxSpawn (5)": "BreakerBoxSpawn (5)"
+      },
+      {
+        "BreakerBoxSpawn (6)": "BreakerBoxSpawn (6)"
+      },
+      {
+        "BreakerBoxSpawn (7)": "BreakerBoxSpawn (7)"
+      },
+      {
+        "BreakerBoxSpawn (9)": "BreakerBoxSpawn (9)"
+      },
+      {
+        "Catwalk": "Catwalk"
+      },
+      {
+        "CatwalkStairs": "CatwalkStairs"
+      },
+      {
+        "CatwalkStairs.002": "CatwalkStairs.002"
+      },
+      {
+        "CeilingLight": "CeilingLight"
+      },
+      {
+        "CenterSquare": "CenterSquare"
+      },
+      {
+        "CenterSquare (2)": "CenterSquare (2)"
+      },
+      {
+        "CenterSquare (5)": "CenterSquare (5)"
+      },
+      {
+        "CenterTubing1": "CenterTubing1"
+      },
+      {
+        "ComplexFactoryRoom": "ComplexFactoryRoom"
+      },
+      {
+        "ComplexFactoryRoom.002": "ComplexFactoryRoom.002"
+      },
+      {
+        "Container (1)": "Container (1)"
+      },
+      {
+        "Container (2)": "Container (2)"
+      },
+      {
+        "Container (3)": "Container (3)"
+      },
+      {
+        "Container (4)": "Container (4)"
+      },
+      {
+        "Container (5)": "Container (5)"
+      },
+      {
+        "CordBundle1": "CordBundle1"
+      },
+      {
+        "CordBundle2": "CordBundle2"
+      },
+      {
+        "CordBundle3": "CordBundle3"
+      },
+      {
+        "Cords": "Cords"
+      },
+      {
+        "Cords2": "Cords2"
+      },
+      {
+        "CordSmall1": "CordSmall1"
+      },
+      {
+        "Cube": "Cube"
+      },
+      {
+        "Cube (1)": "Cube (1)"
+      },
+      {
+        "Cube (10)": "Cube (10)"
+      },
+      {
+        "Cube (11)": "Cube (11)"
+      },
+      {
+        "Cube (12)": "Cube (12)"
+      },
+      {
+        "Cube (13)": "Cube (13)"
+      },
+      {
+        "Cube (14)": "Cube (14)"
+      },
+      {
+        "Cube (15)": "Cube (15)"
+      },
+      {
+        "Cube (16)": "Cube (16)"
+      },
+      {
+        "Cube (17)": "Cube (17)"
+      },
+      {
+        "Cube (18)": "Cube (18)"
+      },
+      {
+        "Cube (19)": "Cube (19)"
+      },
+      {
+        "Cube (2)": "Cube (2)"
+      },
+      {
+        "Cube (20)": "Cube (20)"
+      },
+      {
+        "Cube (21)": "Cube (21)"
+      },
+      {
+        "Cube (22)": "Cube (22)"
+      },
+      {
+        "Cube (23)": "Cube (23)"
+      },
+      {
+        "Cube (24)": "Cube (24)"
+      },
+      {
+        "Cube (25)": "Cube (25)"
+      },
+      {
+        "Cube (3)": "Cube (3)"
+      },
+      {
+        "Cube (4)": "Cube (4)"
+      },
+      {
+        "Cube (5)": "Cube (5)"
+      },
+      {
+        "Cube (6)": "Cube (6)"
+      },
+      {
+        "Cube (7)": "Cube (7)"
+      },
+      {
+        "Cube (8)": "Cube (8)"
+      },
+      {
+        "Cube (9)": "Cube (9)"
+      },
+      {
+        "Cube.000": "Cube.000"
+      },
+      {
+        "Cube.000 (1)": "Cube.000 (1)"
+      },
+      {
+        "Cube.000 (2)": "Cube.000 (2)"
+      },
+      {
+        "Cube.001": "Cube.001"
+      },
+      {
+        "Cube.002": "Cube.002"
+      },
+      {
+        "Cube.002 (1)": "Cube.002 (1)"
+      },
+      {
+        "Cube.003": "Cube.003"
+      },
+      {
+        "Cube.003 (1)": "Cube.003 (1)"
+      },
+      {
+        "Cube.003 (2)": "Cube.003 (2)"
+      },
+      {
+        "Cube.003 (3)": "Cube.003 (3)"
+      },
+      {
+        "Cube.003 (4)": "Cube.003 (4)"
+      },
+      {
+        "Cube.003 (5)": "Cube.003 (5)"
+      },
+      {
+        "Cube.004": "Cube.004"
+      },
+      {
+        "Cube.005": "Cube.005"
+      },
+      {
+        "Cube.006": "Cube.006"
+      },
+      {
+        "Cube.007": "Cube.007"
+      },
+      {
+        "Cube.020": "Cube.020"
+      },
+      {
+        "Cylinder.000": "Cylinder.000"
+      },
+      {
+        "CylinderStorageThing": "CylinderStorageThing"
+      },
+      {
+        "DividingFence": "DividingFence"
+      },
+      {
+        "DoorFrame": "DoorFrame"
+      },
+      {
+        "DoorMesh": "DoorMesh"
+      },
+      {
+        "ElevatorShaft": "ElevatorShaft"
+      },
+      {
+        "EntranceTeleportA": "EntranceTeleportA"
+      },
+      {
+        "fusebox (1)": "fusebox (1)"
+      },
+      {
+        "GameObject": "GameObject"
+      },
+      {
+        "GameObject (6)": "GameObject (6)"
+      },
+      {
+        "GameObject (7)": "GameObject (7)"
+      },
+      {
+        "GeneratorBox": "GeneratorBox"
+      },
+      {
+        "Girder1": "Girder1"
+      },
+      {
+        "Girder2": "Girder2"
+      },
+      {
+        "Girder3": "Girder3"
+      },
+      {
+        "Grate": "Grate"
+      },
+      {
+        "GridPlate": "GridPlate"
+      },
+      {
+        "HangingLight": "HangingLight"
+      },
+      {
+        "HangingLight (1)": "HangingLight (1)"
+      },
+      {
+        "HangingLight (2)": "HangingLight (2)"
+      },
+      {
+        "HangingLight (3)": "HangingLight (3)"
+      },
+      {
+        "HangingLight (4)": "HangingLight (4)"
+      },
+      {
+        "Hinges": "Hinges"
+      },
+      {
+        "HoleRailing": "HoleRailing"
+      },
+      {
+        "IndustrialFanCover": "IndustrialFanCover"
+      },
+      {
+        "LampOnBars": "LampOnBars"
+      },
+      {
+        "LampOnBars (1)": "LampOnBars (1)"
+      },
+      {
+        "LampOnBars (2)": "LampOnBars (2)"
+      },
+      {
+        "LampOnBarsB": "LampOnBarsB"
+      },
+      {
+        "LampOnBarsB (1)": "LampOnBarsB (1)"
+      },
+      {
+        "LampOnBarsB (2)": "LampOnBarsB (2)"
+      },
+      {
+        "LampOnBarsB (3)": "LampOnBarsB (3)"
+      },
+      {
+        "LampOnBarsB (4)": "LampOnBarsB (4)"
+      },
+      {
+        "Landmine": "Landmine"
+      },
+      {
+        "LargePipeSupportBeam": "LargePipeSupportBeam"
+      },
+      {
+        "LargePipeSupportBeam (1)": "LargePipeSupportBeam (1)"
+      },
+      {
+        "LargePipeSupportBeam (2)": "LargePipeSupportBeam (2)"
+      },
+      {
+        "LargePipeSupportBeam (3)": "LargePipeSupportBeam (3)"
+      },
+      {
+        "LargePipeSupportBeam (4)": "LargePipeSupportBeam (4)"
+      },
+      {
+        "Lift": "Lift"
+      },
+      {
+        "LongCord2": "LongCord2"
+      },
+      {
+        "LongCord3": "LongCord3"
+      },
+      {
+        "LongCord4": "LongCord4"
+      },
+      {
+        "LungApparatus": "LungApparatus"
+      },
+      {
+        "LungDockingStation": "LungDockingStation"
+      },
+      {
+        "LungDockingStation2": "LungDockingStation2"
+      },
+      {
+        "LungSocketMachine": "LungSocketMachine"
+      },
+      {
+        "LungSocketMachine (1)": "LungSocketMachine (1)"
+      },
+      {
+        "MapHazardSpawnPipe": "MapHazardSpawnPipe"
+      },
+      {
+        "MapHazardSpawnPipe (1)": "MapHazardSpawnPipe (1)"
+      },
+      {
+        "MapHazardSpawnPipe (10)": "MapHazardSpawnPipe (10)"
+      },
+      {
+        "MapHazardSpawnPipe (11)": "MapHazardSpawnPipe (11)"
+      },
+      {
+        "MapHazardSpawnPipe (12)": "MapHazardSpawnPipe (12)"
+      },
+      {
+        "MapHazardSpawnPipe (13)": "MapHazardSpawnPipe (13)"
+      },
+      {
+        "MapHazardSpawnPipe (14)": "MapHazardSpawnPipe (14)"
+      },
+      {
+        "MapHazardSpawnPipe (15)": "MapHazardSpawnPipe (15)"
+      },
+      {
+        "MapHazardSpawnPipe (16)": "MapHazardSpawnPipe (16)"
+      },
+      {
+        "MapHazardSpawnPipe (17)": "MapHazardSpawnPipe (17)"
+      },
+      {
+        "MapHazardSpawnPipe (18)": "MapHazardSpawnPipe (18)"
+      },
+      {
+        "MapHazardSpawnPipe (2)": "MapHazardSpawnPipe (2)"
+      },
+      {
+        "MapHazardSpawnPipe (3)": "MapHazardSpawnPipe (3)"
+      },
+      {
+        "MapHazardSpawnPipe (4)": "MapHazardSpawnPipe (4)"
+      },
+      {
+        "MapHazardSpawnPipe (5)": "MapHazardSpawnPipe (5)"
+      },
+      {
+        "MapHazardSpawnPipe (6)": "MapHazardSpawnPipe (6)"
+      },
+      {
+        "MapHazardSpawnPipe (7)": "MapHazardSpawnPipe (7)"
+      },
+      {
+        "MapHazardSpawnPipe (8)": "MapHazardSpawnPipe (8)"
+      },
+      {
+        "Mesh": "Mesh"
+      },
+      {
+        "mesh": "mesh"
+      },
+      {
+        "Mesh (1)": "Mesh (1)"
+      },
+      {
+        "Mesh2": "Mesh2"
+      },
+      {
+        "MiscMachine1": "MiscMachine1"
+      },
+      {
+        "MiscMachine1 (1)": "MiscMachine1 (1)"
+      },
+      {
+        "MiscMachine1 (2)": "MiscMachine1 (2)"
+      },
+      {
+        "MiscMachine1 (3)": "MiscMachine1 (3)"
+      },
+      {
+        "Nothing": "Nothing"
+      },
+      {
+        "NurbsPath.000": "NurbsPath.000"
+      },
+      {
+        "NurbsPath.001": "NurbsPath.001"
+      },
+      {
+        "NurbsPath.002": "NurbsPath.002"
+      },
+      {
+        "NurbsPath.003": "NurbsPath.003"
+      },
+      {
+        "NurbsPath.004": "NurbsPath.004"
+      },
+      {
+        "NurbsPath.005": "NurbsPath.005"
+      },
+      {
+        "NurbsPath.006": "NurbsPath.006"
+      },
+      {
+        "Pipe1": "Pipe1"
+      },
+      {
+        "Pipe1 (1)": "Pipe1 (1)"
+      },
+      {
+        "Pipe2": "Pipe2"
+      },
+      {
+        "Pipe2 (1)": "Pipe2 (1)"
+      },
+      {
+        "Pipe3": "Pipe3"
+      },
+      {
+        "Pipe3 (1)": "Pipe3 (1)"
+      },
+      {
+        "Pipe4": "Pipe4"
+      },
+      {
+        "Pipe4 (1)": "Pipe4 (1)"
+      },
+      {
+        "Pipe5": "Pipe5"
+      },
+      {
+        "Pipe5 (1)": "Pipe5 (1)"
+      },
+      {
+        "Pipe5a": "Pipe5a"
+      },
+      {
+        "Pipe6": "Pipe6"
+      },
+      {
+        "Pipe6 (1)": "Pipe6 (1)"
+      },
+      {
+        "Pipe7": "Pipe7"
+      },
+      {
+        "Pipe7 (1)": "Pipe7 (1)"
+      },
+      {
+        "Pipes": "Pipes"
+      },
+      {
+        "PipesEtc": "PipesEtc"
+      },
+      {
+        "PipesWithDial": "PipesWithDial"
+      },
+      {
+        "PlugOutlet": "PlugOutlet"
+      },
+      {
+        "PlugOutlet (1)": "PlugOutlet (1)"
+      },
+      {
+        "PowerBox": "PowerBox"
+      },
+      {
+        "PowerStrip": "PowerStrip"
+      },
+      {
+        "Props3": "Props3"
+      },
+      {
+        "Puddle": "Puddle"
+      },
+      {
+        "Puddle (1)": "Puddle (1)"
+      },
+      {
+        "Puddle2": "Puddle2"
+      },
+      {
+        "Puddle2 (1)": "Puddle2 (1)"
+      },
+      {
+        "Puddle3": "Puddle3"
+      },
+      {
+        "Puddle3 (1)": "Puddle3 (1)"
+      },
+      {
+        "RaisedFloor": "RaisedFloor"
+      },
+      {
+        "RaisedFloorSupports": "RaisedFloorSupports"
+      },
+      {
+        "right pipes": "right pipes"
+      },
+      {
+        "right pipes (1)": "right pipes (1)"
+      },
+      {
+        "right pipes (2)": "right pipes (2)"
+      },
+      {
+        "right pipes (3)": "right pipes (3)"
+      },
+      {
+        "Rod": "Rod"
+      },
+      {
+        "Rod (1)": "Rod (1)"
+      },
+      {
+        "Rod (2)": "Rod (2)"
+      },
+      {
+        "Rod (3)": "Rod (3)"
+      },
+      {
+        "Scaffolding": "Scaffolding"
+      },
+      {
+        "Scaffolding.001": "Scaffolding.001"
+      },
+      {
+        "ServerRack5": "ServerRack5"
+      },
+      {
+        "Shelf1 (10)": "Shelf1 (10)"
+      },
+      {
+        "Shelf1 (11)": "Shelf1 (11)"
+      },
+      {
+        "Shelf1 (12)": "Shelf1 (12)"
+      },
+      {
+        "Shelf1 (12v)": "Shelf1 (12v)"
+      },
+      {
+        "Shelf1 (13)": "Shelf1 (13)"
+      },
+      {
+        "Shelf1 (14)": "Shelf1 (14)"
+      },
+      {
+        "Shelf1 (15)": "Shelf1 (15)"
+      },
+      {
+        "Shelf1 (17)": "Shelf1 (17)"
+      },
+      {
+        "Shelf1 (18)": "Shelf1 (18)"
+      },
+      {
+        "Shelf1 (5)": "Shelf1 (5)"
+      },
+      {
+        "Shelf1 (6)": "Shelf1 (6)"
+      },
+      {
+        "Shelf1 (7)": "Shelf1 (7)"
+      },
+      {
+        "Shelf1 (8)": "Shelf1 (8)"
+      },
+      {
+        "Shelf1 (9)": "Shelf1 (9)"
+      },
+      {
+        "Shelf2": "Shelf2"
+      },
+      {
+        "ShelfMachine": "ShelfMachine"
+      },
+      {
+        "ShelfPallet": "ShelfPallet"
+      },
+      {
+        "ShelfWorkStation": "ShelfWorkStation"
+      },
+      {
+        "Shelves": "Shelves"
+      },
+      {
+        "Side1": "Side1"
+      },
+      {
+        "Side2": "Side2"
+      },
+      {
+        "SpikeRoofTrapHazard": "SpikeRoofTrapHazard"
+      },
+      {
+        "Square (1)": "Square (1)"
+      },
+      {
+        "Square (2)": "Square (2)"
+      },
+      {
+        "Square (3)": "Square (3)"
+      },
+      {
+        "Square (4)": "Square (4)"
+      },
+      {
+        "StairCollider (10)": "StairCollider (10)"
+      },
+      {
+        "StairCollider (11)": "StairCollider (11)"
+      },
+      {
+        "StairCollider (12)": "StairCollider (12)"
+      },
+      {
+        "StairCollider (13)": "StairCollider (13)"
+      },
+      {
+        "StairCollider (14)": "StairCollider (14)"
+      },
+      {
+        "StairCollider (15)": "StairCollider (15)"
+      },
+      {
+        "StairCollider (16)": "StairCollider (16)"
+      },
+      {
+        "StairCollider (17)": "StairCollider (17)"
+      },
+      {
+        "StairCollider (18)": "StairCollider (18)"
+      },
+      {
+        "StairCollider (19)": "StairCollider (19)"
+      },
+      {
+        "StairCollider (20)": "StairCollider (20)"
+      },
+      {
+        "StairCollider (25)": "StairCollider (25)"
+      },
+      {
+        "StairCollider (26)": "StairCollider (26)"
+      },
+      {
+        "StairCollider (3)": "StairCollider (3)"
+      },
+      {
+        "StairCollider (4)": "StairCollider (4)"
+      },
+      {
+        "StairCollider (5)": "StairCollider (5)"
+      },
+      {
+        "StairCollider (6)": "StairCollider (6)"
+      },
+      {
+        "StairCollider (7)": "StairCollider (7)"
+      },
+      {
+        "StairCollider (8)": "StairCollider (8)"
+      },
+      {
+        "StairCollider (9)": "StairCollider (9)"
+      },
+      {
+        "Stairs": "Stairs"
+      },
+      {
+        "StartRoomElevator": "StartRoomElevator"
+      },
+      {
+        "SteelDoorFrameMapSpawn": "SteelDoorFrameMapSpawn"
+      },
+      {
+        "SteelDoorMapModel": "SteelDoorMapModel"
+      },
+      {
+        "SteelDoorMapSpawn": "SteelDoorMapSpawn"
+      },
+      {
+        "Stool": "Stool"
+      },
+      {
+        "Stool (1)": "Stool (1)"
+      },
+      {
+        "Stool (2)": "Stool (2)"
+      },
+      {
+        "Stools": "Stools"
+      },
+      {
+        "StorageShelfContainer": "StorageShelfContainer"
+      },
+      {
+        "StorageShelfSpawn1": "StorageShelfSpawn1"
+      },
+      {
+        "StorageShelfSpawn1 (1)": "StorageShelfSpawn1 (1)"
+      },
+      {
+        "StrangeWorkStation": "StrangeWorkStation"
+      },
+      {
+        "StrangeWorkStation (1)": "StrangeWorkStation (1)"
+      },
+      {
+        "TallWoodPalletPile": "TallWoodPalletPile"
+      },
+      {
+        "Tarp": "Tarp"
+      },
+      {
+        "TopOfElevator": "TopOfElevator"
+      },
+      {
+        "TurretContainer": "TurretContainer"
+      },
+      {
+        "Type1": "Type1"
+      },
+      {
+        "Type2": "Type2"
+      },
+      {
+        "Vent": "Vent"
+      },
+      {
+        "Vent (1)": "Vent (1)"
+      },
+      {
+        "Vent (10)": "Vent (10)"
+      },
+      {
+        "Vent (11)": "Vent (11)"
+      },
+      {
+        "Vent (2)": "Vent (2)"
+      },
+      {
+        "Vent (3)": "Vent (3)"
+      },
+      {
+        "Vent (4)": "Vent (4)"
+      },
+      {
+        "Vent (5)": "Vent (5)"
+      },
+      {
+        "Vent (6)": "Vent (6)"
+      },
+      {
+        "Vent (7)": "Vent (7)"
+      },
+      {
+        "Vent (8)": "Vent (8)"
+      },
+      {
+        "Vent (9)": "Vent (9)"
+      },
+      {
+        "VentEntrance": "VentEntrance"
+      },
+      {
+        "Wall": "Wall"
+      },
+      {
+        "Wall (1)": "Wall (1)"
+      },
+      {
+        "WallFixtureLight": "WallFixtureLight"
+      },
+      {
+        "WallFixtureLight (1)": "WallFixtureLight (1)"
+      },
+      {
+        "WallFixtureLight (10)": "WallFixtureLight (10)"
+      },
+      {
+        "WallFixtureLight (2)": "WallFixtureLight (2)"
+      },
+      {
+        "WallFixtureLight (6)": "WallFixtureLight (6)"
+      },
+      {
+        "WallFixtureLight (9)": "WallFixtureLight (9)"
+      },
+      {
+        "WallGrate": "WallGrate"
+      },
+      {
+        "WoodPalletPile": "WoodPalletPile"
+      },
+      {
+        "WoodPalletPile (1)": "WoodPalletPile (1)"
+      },
+      {
+        "WoodPalletPile2x": "WoodPalletPile2x"
+      },
+      {
+        "WoodPalletPile2x (1)": "WoodPalletPile2x (1)"
+      },
+      {
+        "WoodPalletPile3x": "WoodPalletPile3x"
+      },
+      {
+        "WoodPalletPile3x (1)": "WoodPalletPile3x (1)"
+      },
+      {
+        "WoodPalletPile3x (2)": "WoodPalletPile3x (2)"
+      },
+      {
+        "WoodPalletPile3x (3)": "WoodPalletPile3x (3)"
+      },
+      {
+        "WoodPalletPile4x Variant": "WoodPalletPile4x Variant"
+      },
+      {
+        "WoodPalletPile4x Variant (1)": "WoodPalletPile4x Variant (1)"
+      },
+      {
+        "WoodPalletPile4x Variant (2)": "WoodPalletPile4x Variant (2)"
+      }
+    ],
+    "Blocker": [
+      {
+        "BrickDoorBlockerForkTile": "BrickDoorBlockerForkTile"
+      },
+      {
+        "CementDarkDoorBlocker": "CementDarkDoorBlocker"
+      },
+      {
+        "HallwayBlocker": "HallwayBlocker"
+      },
+      {
+        "HallwayBlockerCornerA": "HallwayBlockerCornerA"
+      },
+      {
+        "HallwayBlockerCornerB": "HallwayBlockerCornerB"
+      },
+      {
+        "HallwayBlockerCornerBLeft": "HallwayBlockerCornerBLeft"
+      },
+      {
+        "HallwayBlockerCornerBRight": "HallwayBlockerCornerBRight"
+      },
+      {
+        "HallwayBlockerNoOffset": "HallwayBlockerNoOffset"
+      },
+      {
+        "HallwayBlockerNoOffsetCementDark": "HallwayBlockerNoOffsetCementDark"
+      },
+      {
+        "MetalWallDoorBlocker": "MetalWallDoorBlocker"
+      },
+      {
+        "NormalDoorBlocker": "NormalDoorBlocker"
+      },
+      {
+        "NormalDoorBlockerBigTex": "NormalDoorBlockerBigTex"
+      },
+      {
+        "NormalDoorBlockerWhiteCement": "NormalDoorBlockerWhiteCement"
+      },
+      {
+        "NormalDoorBlockerWhiteCementNoExitDoor": "NormalDoorBlockerWhiteCementNoExitDoor"
+      },
+      {
+        "NormalDoorBlockerWhiteWallpaper": "NormalDoorBlockerWhiteWallpaper"
+      },
+      {
+        "NWCorner": "NWCorner"
+      },
+      {
+        "Pipe2 (1)": "Pipe2 (1)"
+      },
+      {
+        "Pipe5a": "Pipe5a"
+      },
+      {
+        "Puddle": "Puddle"
+      },
+      {
+        "Puddle (1)": "Puddle (1)"
+      },
+      {
+        "Shelf1 (13)": "Shelf1 (13)"
+      },
+      {
+        "SteamValve": "SteamValve"
+      },
+      {
+        "SWCorner": "SWCorner"
+      },
+      {
+        "Vent (2)": "Vent (2)"
+      },
+      {
+        "Vent (3)": "Vent (3)"
+      },
+      {
+        "Vent (4)": "Vent (4)"
+      },
+      {
+        "Vent (5)": "Vent (5)"
+      },
+      {
+        "Vent (6)": "Vent (6)"
+      },
+      {
+        "VentEntrance": "VentEntrance"
+      },
+      {
+        "WallNorth": "WallNorth"
+      },
+      {
+        "WallNorth (1)": "WallNorth (1)"
+      },
+      {
+        "WallSouth": "WallSouth"
+      },
+      {
+        "WallSouth (1)": "WallSouth (1)"
+      },
+      {
+        "WallSouth (2)": "WallSouth (2)"
+      },
+      {
+        "WallWest": "WallWest"
+      },
+      {
+        "WallWest (1)": "WallWest (1)"
+      },
+      {
+        "WallWestB": "WallWestB"
+      }
+    ]
+  },
+  "Mansion": {
+    "Room": [
+      {
+        "BathroomTileContainer": "BathroomTileContainer"
+      },
+      {
+        "BedroomTile": "BedroomTile"
+      },
+      {
+        "BedroomTileB": "BedroomTileB"
+      },
+      {
+        "BirthdayRoomTile": "BirthdayRoomTile"
+      },
+      {
+        "CloverTile": "CloverTile"
+      },
+      {
+        "GarageTile": "GarageTile"
+      },
+      {
+        "GreenhouseTile": "GreenhouseTile"
+      },
+      {
+        "HallwayTileTypeA": "HallwayTileTypeA"
+      },
+      {
+        "HallwayTileTypeB": "HallwayTileTypeB"
+      },
+      {
+        "HallwayTileTypeC": "HallwayTileTypeC"
+      },
+      {
+        "HallwayTileTypeD": "HallwayTileTypeD"
+      },
+      {
+        "KitchenTile": "KitchenTile"
+      },
+      {
+        "LargeHallwayOpeningTile": "LargeHallwayOpeningTile"
+      },
+      {
+        "Level2StartRoomConnector": "Level2StartRoomConnector"
+      },
+      {
+        "LibraryTile": "LibraryTile"
+      },
+      {
+        "LivingRoomTile": "LivingRoomTile"
+      },
+      {
+        "ManorStairTile": "ManorStairTile"
+      },
+      {
+        "ManorStartRoomSmall": "ManorStartRoomSmall"
+      },
+      {
+        "NarrowHallwayTile2x2": "NarrowHallwayTile2x2"
+      },
+      {
+        "PoolTile": "PoolTile"
+      },
+      {
+        "ThinStairTile": "ThinStairTile"
+      },
+      {
+        "WindowTile": "WindowTile"
+      }
+    ],
+    "Decoratif": [
+      {
+        "ArrangementA": "ArrangementA"
+      },
+      {
+        "ArrangementAb": "ArrangementAb"
+      },
+      {
+        "ArrangementB": "ArrangementB"
+      },
+      {
+        "ArrangementC": "ArrangementC"
+      },
+      {
+        "ArrangementD": "ArrangementD"
+      },
+      {
+        "AtticBeams (2)": "AtticBeams (2)"
+      },
+      {
+        "AtticBeams (3)": "AtticBeams (3)"
+      },
+      {
+        "AtticBeams (4)": "AtticBeams (4)"
+      },
+      {
+        "Balloon": "Balloon"
+      },
+      {
+        "Balloon (1)": "Balloon (1)"
+      },
+      {
+        "Balloon (2)": "Balloon (2)"
+      },
+      {
+        "BathroomDrawers": "BathroomDrawers"
+      },
+      {
+        "BathroomGlassDoor2": "BathroomGlassDoor2"
+      },
+      {
+        "BathroomShowerDoor": "BathroomShowerDoor"
+      },
+      {
+        "BathroomTileMesh": "BathroomTileMesh"
+      },
+      {
+        "Beanbag": "Beanbag"
+      },
+      {
+        "BedCoverLOD0": "BedCoverLOD0"
+      },
+      {
+        "BedroomBed": "BedroomBed"
+      },
+      {
+        "BedroomBedFrame (1)": "BedroomBedFrame (1)"
+      },
+      {
+        "BedroomDrawers": "BedroomDrawers"
+      },
+      {
+        "BedroomDrawersB": "BedroomDrawersB"
+      },
+      {
+        "BedroomLamp": "BedroomLamp"
+      },
+      {
+        "BedroomTileMesh": "BedroomTileMesh"
+      },
+      {
+        "BedroomWindow": "BedroomWindow"
+      },
+      {
+        "BigCupboard (1)": "BigCupboard (1)"
+      },
+      {
+        "BirthdayDecor": "BirthdayDecor"
+      },
+      {
+        "BirthdayRoomMesh": "BirthdayRoomMesh"
+      },
+      {
+        "BirthdayTable": "BirthdayTable"
+      },
+      {
+        "BooksTex (1)": "BooksTex (1)"
+      },
+      {
+        "BooksTex (2)": "BooksTex (2)"
+      },
+      {
+        "BooksTex (3)": "BooksTex (3)"
+      },
+      {
+        "BooksTex (4)": "BooksTex (4)"
+      },
+      {
+        "BooksTex (5)": "BooksTex (5)"
+      },
+      {
+        "BooksTex (6)": "BooksTex (6)"
+      },
+      {
+        "BooksTexCurved": "BooksTexCurved"
+      },
+      {
+        "BooksTexCurved (1)": "BooksTexCurved (1)"
+      },
+      {
+        "BooksTexCurved (2)": "BooksTexCurved (2)"
+      },
+      {
+        "BooksTexCurved (3)": "BooksTexCurved (3)"
+      },
+      {
+        "BooksTexCurved (4)": "BooksTexCurved (4)"
+      },
+      {
+        "BooksTexCurved (5)": "BooksTexCurved (5)"
+      },
+      {
+        "BooksTexCurved (6)": "BooksTexCurved (6)"
+      },
+      {
+        "BooksTexCurved (7)": "BooksTexCurved (7)"
+      },
+      {
+        "BooksTexSide (1)": "BooksTexSide (1)"
+      },
+      {
+        "BooksTexSide (2)": "BooksTexSide (2)"
+      },
+      {
+        "BooksTexSide (3)": "BooksTexSide (3)"
+      },
+      {
+        "BooksTexSide (4)": "BooksTexSide (4)"
+      },
+      {
+        "BooksTexSide (5)": "BooksTexSide (5)"
+      },
+      {
+        "BooksTexSide (6)": "BooksTexSide (6)"
+      },
+      {
+        "BreakerBox": "BreakerBox"
+      },
+      {
+        "BreakerBoxSpawn": "BreakerBoxSpawn"
+      },
+      {
+        "BreakerBoxSpawn (1)": "BreakerBoxSpawn (1)"
+      },
+      {
+        "Car (1)": "Car (1)"
+      },
+      {
+        "CasesShelf (1)": "CasesShelf (1)"
+      },
+      {
+        "CasesShelf (2)": "CasesShelf (2)"
+      },
+      {
+        "CasesShelf (3)": "CasesShelf (3)"
+      },
+      {
+        "Chandelier": "Chandelier"
+      },
+      {
+        "Chandelier2": "Chandelier2"
+      },
+      {
+        "Closet": "Closet"
+      },
+      {
+        "ClosetShelving": "ClosetShelving"
+      },
+      {
+        "ClosetShelving (1)": "ClosetShelving (1)"
+      },
+      {
+        "Container (11)": "Container (11)"
+      },
+      {
+        "Container (12)": "Container (12)"
+      },
+      {
+        "Container (13)": "Container (13)"
+      },
+      {
+        "Container (4)": "Container (4)"
+      },
+      {
+        "Container (5)": "Container (5)"
+      },
+      {
+        "Couch (1)": "Couch (1)"
+      },
+      {
+        "Couch (2)": "Couch (2)"
+      },
+      {
+        "Couch (3)": "Couch (3)"
+      },
+      {
+        "Cube": "Cube"
+      },
+      {
+        "Cube (1)": "Cube (1)"
+      },
+      {
+        "Cube (10)": "Cube (10)"
+      },
+      {
+        "Cube (11)": "Cube (11)"
+      },
+      {
+        "Cube (12)": "Cube (12)"
+      },
+      {
+        "Cube (13)": "Cube (13)"
+      },
+      {
+        "Cube (14)": "Cube (14)"
+      },
+      {
+        "Cube (15)": "Cube (15)"
+      },
+      {
+        "Cube (16)": "Cube (16)"
+      },
+      {
+        "Cube (17)": "Cube (17)"
+      },
+      {
+        "Cube (18)": "Cube (18)"
+      },
+      {
+        "Cube (19)": "Cube (19)"
+      },
+      {
+        "Cube (2)": "Cube (2)"
+      },
+      {
+        "Cube (20)": "Cube (20)"
+      },
+      {
+        "Cube (21)": "Cube (21)"
+      },
+      {
+        "Cube (22)": "Cube (22)"
+      },
+      {
+        "Cube (23)": "Cube (23)"
+      },
+      {
+        "Cube (24)": "Cube (24)"
+      },
+      {
+        "Cube (25)": "Cube (25)"
+      },
+      {
+        "Cube (3)": "Cube (3)"
+      },
+      {
+        "Cube (4)": "Cube (4)"
+      },
+      {
+        "Cube (5)": "Cube (5)"
+      },
+      {
+        "Cube (6)": "Cube (6)"
+      },
+      {
+        "Cube (7)": "Cube (7)"
+      },
+      {
+        "Cube (8)": "Cube (8)"
+      },
+      {
+        "Cube (9)": "Cube (9)"
+      },
+      {
+        "Cube.000 (1)": "Cube.000 (1)"
+      },
+      {
+        "Cube.000 (2)": "Cube.000 (2)"
+      },
+      {
+        "Cube.000 (3)": "Cube.000 (3)"
+      },
+      {
+        "Cube.000 (4)": "Cube.000 (4)"
+      },
+      {
+        "Cube.000 (5)": "Cube.000 (5)"
+      },
+      {
+        "Cube.000 (6)": "Cube.000 (6)"
+      },
+      {
+        "Cube.000 (7)": "Cube.000 (7)"
+      },
+      {
+        "Cube.000 (8)": "Cube.000 (8)"
+      },
+      {
+        "Cube.000 (9)": "Cube.000 (9)"
+      },
+      {
+        "Cube.002 (1)": "Cube.002 (1)"
+      },
+      {
+        "Cube.002 (10)": "Cube.002 (10)"
+      },
+      {
+        "Cube.002 (11)": "Cube.002 (11)"
+      },
+      {
+        "Cube.002 (12)": "Cube.002 (12)"
+      },
+      {
+        "Cube.002 (13)": "Cube.002 (13)"
+      },
+      {
+        "Cube.002 (14)": "Cube.002 (14)"
+      },
+      {
+        "Cube.002 (15)": "Cube.002 (15)"
+      },
+      {
+        "Cube.002 (16)": "Cube.002 (16)"
+      },
+      {
+        "Cube.002 (17)": "Cube.002 (17)"
+      },
+      {
+        "Cube.002 (18)": "Cube.002 (18)"
+      },
+      {
+        "Cube.002 (19)": "Cube.002 (19)"
+      },
+      {
+        "Cube.002 (2)": "Cube.002 (2)"
+      },
+      {
+        "Cube.002 (20)": "Cube.002 (20)"
+      },
+      {
+        "Cube.002 (21)": "Cube.002 (21)"
+      },
+      {
+        "Cube.002 (22)": "Cube.002 (22)"
+      },
+      {
+        "Cube.002 (23)": "Cube.002 (23)"
+      },
+      {
+        "Cube.002 (24)": "Cube.002 (24)"
+      },
+      {
+        "Cube.002 (25)": "Cube.002 (25)"
+      },
+      {
+        "Cube.002 (26)": "Cube.002 (26)"
+      },
+      {
+        "Cube.002 (27)": "Cube.002 (27)"
+      },
+      {
+        "Cube.002 (28)": "Cube.002 (28)"
+      },
+      {
+        "Cube.002 (29)": "Cube.002 (29)"
+      },
+      {
+        "Cube.002 (3)": "Cube.002 (3)"
+      },
+      {
+        "Cube.002 (30)": "Cube.002 (30)"
+      },
+      {
+        "Cube.002 (31)": "Cube.002 (31)"
+      },
+      {
+        "Cube.002 (32)": "Cube.002 (32)"
+      },
+      {
+        "Cube.002 (33)": "Cube.002 (33)"
+      },
+      {
+        "Cube.002 (34)": "Cube.002 (34)"
+      },
+      {
+        "Cube.002 (35)": "Cube.002 (35)"
+      },
+      {
+        "Cube.002 (36)": "Cube.002 (36)"
+      },
+      {
+        "Cube.002 (37)": "Cube.002 (37)"
+      },
+      {
+        "Cube.002 (39)": "Cube.002 (39)"
+      },
+      {
+        "Cube.002 (4)": "Cube.002 (4)"
+      },
+      {
+        "Cube.002 (40)": "Cube.002 (40)"
+      },
+      {
+        "Cube.002 (41)": "Cube.002 (41)"
+      },
+      {
+        "Cube.002 (42)": "Cube.002 (42)"
+      },
+      {
+        "Cube.002 (43)": "Cube.002 (43)"
+      },
+      {
+        "Cube.002 (5)": "Cube.002 (5)"
+      },
+      {
+        "Cube.002 (6)": "Cube.002 (6)"
+      },
+      {
+        "Cube.002 (7)": "Cube.002 (7)"
+      },
+      {
+        "Cube.002 (8)": "Cube.002 (8)"
+      },
+      {
+        "Cube.002 (9)": "Cube.002 (9)"
+      },
+      {
+        "CurvedShelf (1)": "CurvedShelf (1)"
+      },
+      {
+        "CurvedShelf (2)": "CurvedShelf (2)"
+      },
+      {
+        "Cylinder (1)": "Cylinder (1)"
+      },
+      {
+        "Cylinder.002 (1)": "Cylinder.002 (1)"
+      },
+      {
+        "Cylinder.002 (2)": "Cylinder.002 (2)"
+      },
+      {
+        "DefaultLargeDoorwayTile (1)": "DefaultLargeDoorwayTile (1)"
+      },
+      {
+        "EntranceTeleportA": "EntranceTeleportA"
+      },
+      {
+        "ExitRoomReverb": "ExitRoomReverb"
+      },
+      {
+        "ExitRoomReverb (1)": "ExitRoomReverb (1)"
+      },
+      {
+        "ExitRoomReverb (2)": "ExitRoomReverb (2)"
+      },
+      {
+        "FancyDoorFrameMapSpawn": "FancyDoorFrameMapSpawn"
+      },
+      {
+        "FancyDoorMapGlassSpawn": "FancyDoorMapGlassSpawn"
+      },
+      {
+        "FancyDoorMapModelDarkWoodFrame": "FancyDoorMapModelDarkWoodFrame"
+      },
+      {
+        "FancyDoorMapSpawn": "FancyDoorMapSpawn"
+      },
+      {
+        "FancyDresserContainer": "FancyDresserContainer"
+      },
+      {
+        "FancyDresserSpawner": "FancyDresserSpawner"
+      },
+      {
+        "FancyDresserSpawner (1)": "FancyDresserSpawner (1)"
+      },
+      {
+        "FancyDresserSpawner (2)": "FancyDresserSpawner (2)"
+      },
+      {
+        "FancyDresserSpawner (3)": "FancyDresserSpawner (3)"
+      },
+      {
+        "Fireplace": "Fireplace"
+      },
+      {
+        "Fireplace (1)": "Fireplace (1)"
+      },
+      {
+        "Fireplace (2)": "Fireplace (2)"
+      },
+      {
+        "FireplaceWall": "FireplaceWall"
+      },
+      {
+        "FoldoutTable": "FoldoutTable"
+      },
+      {
+        "Front": "Front"
+      },
+      {
+        "FrontSymmetrical": "FrontSymmetrical"
+      },
+      {
+        "GarageDoor (2)": "GarageDoor (2)"
+      },
+      {
+        "GarageInteractables": "GarageInteractables"
+      },
+      {
+        "GarageStorageShelf (1)": "GarageStorageShelf (1)"
+      },
+      {
+        "GarageStorageShelf.001 (1)": "GarageStorageShelf.001 (1)"
+      },
+      {
+        "GarageTileMesh": "GarageTileMesh"
+      },
+      {
+        "GarageToolBoard (1)": "GarageToolBoard (1)"
+      },
+      {
+        "GarageWallShelf (1)": "GarageWallShelf (1)"
+      },
+      {
+        "GarageWallShelfCorner (2)": "GarageWallShelfCorner (2)"
+      },
+      {
+        "GarbageBin (1)": "GarbageBin (1)"
+      },
+      {
+        "GlassDoubleDoorsMapSpawner": "GlassDoubleDoorsMapSpawner"
+      },
+      {
+        "GreenhouseAudioLeaveTrigger": "GreenhouseAudioLeaveTrigger"
+      },
+      {
+        "GreenhouseAudioTrigger": "GreenhouseAudioTrigger"
+      },
+      {
+        "GreenhouseBigPlant": "GreenhouseBigPlant"
+      },
+      {
+        "GreenhouseBigPlant (1)": "GreenhouseBigPlant (1)"
+      },
+      {
+        "GreenhouseBigPlantLeavesLOD0": "GreenhouseBigPlantLeavesLOD0"
+      },
+      {
+        "GreenhouseBigPlantLeavesLOD1": "GreenhouseBigPlantLeavesLOD1"
+      },
+      {
+        "GreenhouseBigPlantLOD1": "GreenhouseBigPlantLOD1"
+      },
+      {
+        "GreenhouseTileFlowerbed": "GreenhouseTileFlowerbed"
+      },
+      {
+        "GreenhouseTileFlowerbed (1)": "GreenhouseTileFlowerbed (1)"
+      },
+      {
+        "GreenhouseTileMesh": "GreenhouseTileMesh"
+      },
+      {
+        "GreenhouseTileShelfingE": "GreenhouseTileShelfingE"
+      },
+      {
+        "GridCabinetContainer": "GridCabinetContainer"
+      },
+      {
+        "GridCabinetSpawner": "GridCabinetSpawner"
+      },
+      {
+        "HallwayWideOpeningConnector": "HallwayWideOpeningConnector"
+      },
+      {
+        "HangingLEDBarLight (3)": "HangingLEDBarLight (3)"
+      },
+      {
+        "HangingLEDBarLight (4)": "HangingLEDBarLight (4)"
+      },
+      {
+        "HungUpClothes": "HungUpClothes"
+      },
+      {
+        "HungUpClothes (1)": "HungUpClothes (1)"
+      },
+      {
+        "HungUpClothes (10)": "HungUpClothes (10)"
+      },
+      {
+        "HungUpClothes (2)": "HungUpClothes (2)"
+      },
+      {
+        "HungUpClothes (3)": "HungUpClothes (3)"
+      },
+      {
+        "HungUpClothes (4)": "HungUpClothes (4)"
+      },
+      {
+        "HungUpClothes (5)": "HungUpClothes (5)"
+      },
+      {
+        "HungUpClothes (6)": "HungUpClothes (6)"
+      },
+      {
+        "HungUpClothes (7)": "HungUpClothes (7)"
+      },
+      {
+        "HungUpClothes (8)": "HungUpClothes (8)"
+      },
+      {
+        "HungUpClothes (9)": "HungUpClothes (9)"
+      },
+      {
+        "Ladder": "Ladder"
+      },
+      {
+        "Landmine": "Landmine"
+      },
+      {
+        "LargeRoomReverb": "LargeRoomReverb"
+      },
+      {
+        "lightbulbsLineMesh": "lightbulbsLineMesh"
+      },
+      {
+        "LongFlowerbedPlants": "LongFlowerbedPlants"
+      },
+      {
+        "MainEntranceSpawnPositionA": "MainEntranceSpawnPositionA"
+      },
+      {
+        "MainEntranceSpawnPositionB": "MainEntranceSpawnPositionB"
+      },
+      {
+        "MainEntranceSpawnPositionC": "MainEntranceSpawnPositionC"
+      },
+      {
+        "ManorStartRoomMesh": "ManorStartRoomMesh"
+      },
+      {
+        "MansionWallLampContainer": "MansionWallLampContainer"
+      },
+      {
+        "MansionWallLampContainer (1)": "MansionWallLampContainer (1)"
+      },
+      {
+        "MansionWallLampContainer (2)": "MansionWallLampContainer (2)"
+      },
+      {
+        "MansionWallLampContainer (3)": "MansionWallLampContainer (3)"
+      },
+      {
+        "MansionWallLampContainer (4)": "MansionWallLampContainer (4)"
+      },
+      {
+        "MansionWallLampContainer (5)": "MansionWallLampContainer (5)"
+      },
+      {
+        "MansionWallLampContainer (6)": "MansionWallLampContainer (6)"
+      },
+      {
+        "MansionWallLampContainer (7)": "MansionWallLampContainer (7)"
+      },
+      {
+        "MansionWallLampContainer (8)": "MansionWallLampContainer (8)"
+      },
+      {
+        "MansionWallLampContainer (9)": "MansionWallLampContainer (9)"
+      },
+      {
+        "mesh": "mesh"
+      },
+      {
+        "MetalTable (1)": "MetalTable (1)"
+      },
+      {
+        "MineshaftSpotlight (1)": "MineshaftSpotlight (1)"
+      },
+      {
+        "MineshaftSpotlight (2)": "MineshaftSpotlight (2)"
+      },
+      {
+        "Mirrors": "Mirrors"
+      },
+      {
+        "NarrowHallwayTile2x2Mesh": "NarrowHallwayTile2x2Mesh"
+      },
+      {
+        "neon lights": "neon lights"
+      },
+      {
+        "Nightstand": "Nightstand"
+      },
+      {
+        "Nothing": "Nothing"
+      },
+      {
+        "nothing": "nothing"
+      },
+      {
+        "Plane": "Plane"
+      },
+      {
+        "PoolAudioLeaveTrigger": "PoolAudioLeaveTrigger"
+      },
+      {
+        "PoolFloaty": "PoolFloaty"
+      },
+      {
+        "PoolFloatySpawner1": "PoolFloatySpawner1"
+      },
+      {
+        "PoolFloatySpawner2": "PoolFloatySpawner2"
+      },
+      {
+        "PoolTile.001 (2)": "PoolTile.001 (2)"
+      },
+      {
+        "PoolTile.001 (3)": "PoolTile.001 (3)"
+      },
+      {
+        "PoolTile.002 (2)": "PoolTile.002 (2)"
+      },
+      {
+        "PoolTile.002 (3)": "PoolTile.002 (3)"
+      },
+      {
+        "PoolTileMesh": "PoolTileMesh"
+      },
+      {
+        "PoolTileShortLadderWestSide": "PoolTileShortLadderWestSide"
+      },
+      {
+        "PoweredLightTypeB": "PoweredLightTypeB"
+      },
+      {
+        "PoweredLightTypeB (1)": "PoweredLightTypeB (1)"
+      },
+      {
+        "Puddle": "Puddle"
+      },
+      {
+        "Puddle3": "Puddle3"
+      },
+      {
+        "RadarBox (1)": "RadarBox (1)"
+      },
+      {
+        "RadarBox (10)": "RadarBox (10)"
+      },
+      {
+        "RadarBox (11)": "RadarBox (11)"
+      },
+      {
+        "RadarBox (12)": "RadarBox (12)"
+      },
+      {
+        "RadarBox (13)": "RadarBox (13)"
+      },
+      {
+        "RadarBox (14)": "RadarBox (14)"
+      },
+      {
+        "RadarBox (15)": "RadarBox (15)"
+      },
+      {
+        "RadarBox (2)": "RadarBox (2)"
+      },
+      {
+        "RadarBox (3)": "RadarBox (3)"
+      },
+      {
+        "RadarBox (4)": "RadarBox (4)"
+      },
+      {
+        "RadarBox (5)": "RadarBox (5)"
+      },
+      {
+        "RadarBox (6)": "RadarBox (6)"
+      },
+      {
+        "RadarBox (7)": "RadarBox (7)"
+      },
+      {
+        "RadarBox (8)": "RadarBox (8)"
+      },
+      {
+        "RadarBox (9)": "RadarBox (9)"
+      },
+      {
+        "RightSideProps": "RightSideProps"
+      },
+      {
+        "RoundTable (2)": "RoundTable (2)"
+      },
+      {
+        "RoundTable (3)": "RoundTable (3)"
+      },
+      {
+        "Rug": "Rug"
+      },
+      {
+        "Rug (1)": "Rug (1)"
+      },
+      {
+        "RugT": "RugT"
+      },
+      {
+        "Shelf2 (1)": "Shelf2 (1)"
+      },
+      {
+        "ShelfAThin (1)": "ShelfAThin (1)"
+      },
+      {
+        "ShelfB (10)": "ShelfB (10)"
+      },
+      {
+        "ShelfB (11)": "ShelfB (11)"
+      },
+      {
+        "ShelfB (12)": "ShelfB (12)"
+      },
+      {
+        "ShelfB (13)": "ShelfB (13)"
+      },
+      {
+        "ShelfB (14)": "ShelfB (14)"
+      },
+      {
+        "ShelfB (7)": "ShelfB (7)"
+      },
+      {
+        "ShelfB (8)": "ShelfB (8)"
+      },
+      {
+        "ShelfB (9)": "ShelfB (9)"
+      },
+      {
+        "ShelfBThin (1)": "ShelfBThin (1)"
+      },
+      {
+        "ShelfBThin (10)": "ShelfBThin (10)"
+      },
+      {
+        "ShelfBThin (2)": "ShelfBThin (2)"
+      },
+      {
+        "ShelfBThin (3)": "ShelfBThin (3)"
+      },
+      {
+        "ShelfBThin (4)": "ShelfBThin (4)"
+      },
+      {
+        "ShelfBThin (5)": "ShelfBThin (5)"
+      },
+      {
+        "ShelfBThin (6)": "ShelfBThin (6)"
+      },
+      {
+        "ShelfBThin (7)": "ShelfBThin (7)"
+      },
+      {
+        "ShelfBThin (8)": "ShelfBThin (8)"
+      },
+      {
+        "ShelfBThin (9)": "ShelfBThin (9)"
+      },
+      {
+        "Shelves": "Shelves"
+      },
+      {
+        "ShelvesA": "ShelvesA"
+      },
+      {
+        "ShelvesB": "ShelvesB"
+      },
+      {
+        "ShoeRack": "ShoeRack"
+      },
+      {
+        "Side1": "Side1"
+      },
+      {
+        "Side2": "Side2"
+      },
+      {
+        "Side3": "Side3"
+      },
+      {
+        "SmallFlowerbedPlants": "SmallFlowerbedPlants"
+      },
+      {
+        "Sphere (1)": "Sphere (1)"
+      },
+      {
+        "Sphere (2)": "Sphere (2)"
+      },
+      {
+        "Sphere (3)": "Sphere (3)"
+      },
+      {
+        "Sphere (4)": "Sphere (4)"
+      },
+      {
+        "Sphere.002 (1)": "Sphere.002 (1)"
+      },
+      {
+        "Sphere.002 (2)": "Sphere.002 (2)"
+      },
+      {
+        "Sphere.003 (1)": "Sphere.003 (1)"
+      },
+      {
+        "Sphere.003 (2)": "Sphere.003 (2)"
+      },
+      {
+        "Sphere.003 (3)": "Sphere.003 (3)"
+      },
+      {
+        "Sphere.004 (1)": "Sphere.004 (1)"
+      },
+      {
+        "Sphere.004 (2)": "Sphere.004 (2)"
+      },
+      {
+        "Sphere.005 (1)": "Sphere.005 (1)"
+      },
+      {
+        "Sphere.005 (2)": "Sphere.005 (2)"
+      },
+      {
+        "Sphere.005 (3)": "Sphere.005 (3)"
+      },
+      {
+        "Sphere.006 (1)": "Sphere.006 (1)"
+      },
+      {
+        "Sphere.006 (2)": "Sphere.006 (2)"
+      },
+      {
+        "SpikeRoofTrapHazard": "SpikeRoofTrapHazard"
+      },
+      {
+        "Square": "Square"
+      },
+      {
+        "Square (2)": "Square (2)"
+      },
+      {
+        "Square (26)": "Square (26)"
+      },
+      {
+        "Square (28)": "Square (28)"
+      },
+      {
+        "Square (3)": "Square (3)"
+      },
+      {
+        "Square (4)": "Square (4)"
+      },
+      {
+        "Stairs (1)": "Stairs (1)"
+      },
+      {
+        "StartRoomMeshes": "StartRoomMeshes"
+      },
+      {
+        "StepLadder (1)": "StepLadder (1)"
+      },
+      {
+        "Stool (12)": "Stool (12)"
+      },
+      {
+        "Stool (13)": "Stool (13)"
+      },
+      {
+        "Stool (2)": "Stool (2)"
+      },
+      {
+        "Stool (6)": "Stool (6)"
+      },
+      {
+        "Stool (7)": "Stool (7)"
+      },
+      {
+        "Stool (8)": "Stool (8)"
+      },
+      {
+        "Stool (9)": "Stool (9)"
+      },
+      {
+        "Television": "Television"
+      },
+      {
+        "ThinStairTileMesh": "ThinStairTileMesh"
+      },
+      {
+        "ToiletMesh": "ToiletMesh"
+      },
+      {
+        "TrashCan": "TrashCan"
+      },
+      {
+        "TurretContainer": "TurretContainer"
+      },
+      {
+        "Vent (10)": "Vent (10)"
+      },
+      {
+        "Vent (11)": "Vent (11)"
+      },
+      {
+        "Vent (12)": "Vent (12)"
+      },
+      {
+        "Vent (2)": "Vent (2)"
+      },
+      {
+        "Vent (4)": "Vent (4)"
+      },
+      {
+        "Vent (8)": "Vent (8)"
+      },
+      {
+        "Vent (9)": "Vent (9)"
+      },
+      {
+        "VentEntrance": "VentEntrance"
+      },
+      {
+        "WallA": "WallA"
+      },
+      {
+        "WallB": "WallB"
+      },
+      {
+        "Water (2)": "Water (2)"
+      },
+      {
+        "WaterTrigger (1)": "WaterTrigger (1)"
+      },
+      {
+        "WideHallwayOpeningProps": "WideHallwayOpeningProps"
+      },
+      {
+        "WoodChair (11)": "WoodChair (11)"
+      },
+      {
+        "WoodChair (12)": "WoodChair (12)"
+      },
+      {
+        "WoodChair (13)": "WoodChair (13)"
+      },
+      {
+        "WoodChair (14)": "WoodChair (14)"
+      },
+      {
+        "WoodChair (15)": "WoodChair (15)"
+      },
+      {
+        "WoodChair (16)": "WoodChair (16)"
+      },
+      {
+        "WoodChair (4)": "WoodChair (4)"
+      },
+      {
+        "WoodChair (5)": "WoodChair (5)"
+      },
+      {
+        "WoodChair (6)": "WoodChair (6)"
+      }
+    ],
+    "Blocker": [
+      {
+        "AtticBeams (3)": "AtticBeams (3)"
+      },
+      {
+        "AtticBeams (4)": "AtticBeams (4)"
+      },
+      {
+        "CasesShelf": "CasesShelf"
+      },
+      {
+        "CloverTileLampSpawn": "CloverTileLampSpawn"
+      },
+      {
+        "CloverTileLampSpawnB Variant": "CloverTileLampSpawnB Variant"
+      },
+      {
+        "CloverTileLampSpawnC Variant": "CloverTileLampSpawnC Variant"
+      },
+      {
+        "CloverTileShelfSpawn": "CloverTileShelfSpawn"
+      },
+      {
+        "CloverTileShelfSpawnB Variant": "CloverTileShelfSpawnB Variant"
+      },
+      {
+        "CloverTileShelfSpawnD Variant": "CloverTileShelfSpawnD Variant"
+      },
+      {
+        "FancyDoorBlockerMedHallway": "FancyDoorBlockerMedHallway"
+      },
+      {
+        "FancyDoorBlockerMedHallway2": "FancyDoorBlockerMedHallway2"
+      },
+      {
+        "FancyDoorBlockerMedHallway2Left Variant": "FancyDoorBlockerMedHallway2Left Variant"
+      },
+      {
+        "FancyDresserContainer": "FancyDresserContainer"
+      },
+      {
+        "FancyDresserSpawnerOffsetA": "FancyDresserSpawnerOffsetA"
+      },
+      {
+        "FancyWall2PillarDoorBlocker": "FancyWall2PillarDoorBlocker"
+      },
+      {
+        "FancyWall3PillarDoorBlocker Variant": "FancyWall3PillarDoorBlocker Variant"
+      },
+      {
+        "FancyWall4DoorBlocker": "FancyWall4DoorBlocker"
+      },
+      {
+        "Fireplace (2)": "Fireplace (2)"
+      },
+      {
+        "GeneralScrapSpawn": "GeneralScrapSpawn"
+      },
+      {
+        "GreenhouseBrickDoorBlocker": "GreenhouseBrickDoorBlocker"
+      },
+      {
+        "GreenhouseInteractables": "GreenhouseInteractables"
+      },
+      {
+        "GreenhouseSinkContainer": "GreenhouseSinkContainer"
+      },
+      {
+        "GreenhouseTileShelfingS": "GreenhouseTileShelfingS"
+      },
+      {
+        "MansionWallLampContainer (1)": "MansionWallLampContainer (1)"
+      },
+      {
+        "MansionWallLampContainer (2)": "MansionWallLampContainer (2)"
+      },
+      {
+        "MansionWallLampContainer (3)": "MansionWallLampContainer (3)"
+      },
+      {
+        "MarbleWallDoorBlocker": "MarbleWallDoorBlocker"
+      },
+      {
+        "MarbleWallDoorBlocker 1": "MarbleWallDoorBlocker 1"
+      },
+      {
+        "MarbleWallDoorBlocker3": "MarbleWallDoorBlocker3"
+      },
+      {
+        "MarbleWallDoorBlockerPool": "MarbleWallDoorBlockerPool"
+      },
+      {
+        "MarbleWallDoorBlockerRed": "MarbleWallDoorBlockerRed"
+      },
+      {
+        "NormalDoorBlocker": "NormalDoorBlocker"
+      },
+      {
+        "RightSideProps": "RightSideProps"
+      },
+      {
+        "Rug": "Rug"
+      },
+      {
+        "ShelfBThin (4)": "ShelfBThin (4)"
+      },
+      {
+        "ShelfBThin (5)": "ShelfBThin (5)"
+      },
+      {
+        "ShelfBThin (6)": "ShelfBThin (6)"
+      },
+      {
+        "ShelfBThin (7)": "ShelfBThin (7)"
+      },
+      {
+        "ShelfBThin (8)": "ShelfBThin (8)"
+      },
+      {
+        "ShelfOrLamp": "ShelfOrLamp"
+      },
+      {
+        "ShelfOrLamp (1)": "ShelfOrLamp (1)"
+      },
+      {
+        "ShelfOrLamp (2)": "ShelfOrLamp (2)"
+      },
+      {
+        "ShelfOrLamp (3)": "ShelfOrLamp (3)"
+      },
+      {
+        "Vent (2)": "Vent (2)"
+      },
+      {
+        "Vent (4)": "Vent (4)"
+      },
+      {
+        "VentEntrance": "VentEntrance"
+      },
+      {
+        "WallProps": "WallProps"
+      },
+      {
+        "WideHallwayBlockerGreenhouse": "WideHallwayBlockerGreenhouse"
+      },
+      {
+        "WideHallwayOpeningBlocker (1)": "WideHallwayOpeningBlocker (1)"
+      },
+      {
+        "WideHallwayOpeningBlocker3": "WideHallwayOpeningBlocker3"
+      },
+      {
+        "WideHallwayOpeningBlockerB": "WideHallwayOpeningBlockerB"
+      },
+      {
+        "WideHallwayOpeningBlockerBOffset2b": "WideHallwayOpeningBlockerBOffset2b"
+      },
+      {
+        "WideHallwayOpeningBlockerBOffset2c Variant": "WideHallwayOpeningBlockerBOffset2c Variant"
+      },
+      {
+        "WideHallwayOpeningBlockerC Variant": "WideHallwayOpeningBlockerC Variant"
+      },
+      {
+        "WideHallwayOpeningBlockerGreenPillars Variant": "WideHallwayOpeningBlockerGreenPillars Variant"
+      }
+    ]
+  },
+  "Mineshaft": {
+    "Room": [
+      {
+        "CaveCrampedIntersectTile": "CaveCrampedIntersectTile"
+      },
+      {
+        "CaveForkStairTile": "CaveForkStairTile"
+      },
+      {
+        "CaveLongRampTile": "CaveLongRampTile"
+      },
+      {
+        "CaveSmallIntersectTile": "CaveSmallIntersectTile"
+      },
+      {
+        "CaveWaterTile": "CaveWaterTile"
+      },
+      {
+        "CaveYTile": "CaveYTile"
+      },
+      {
+        "DeepShaftTile": "DeepShaftTile"
+      },
+      {
+        "GrandTunnelRamp": "GrandTunnelRamp"
+      },
+      {
+        "MineshaftStartTile": "MineshaftStartTile"
+      },
+      {
+        "TunnelSplit": "TunnelSplit"
+      },
+      {
+        "TunnelSplitEndTile": "TunnelSplitEndTile"
+      }
+    ],
+    "Decoratif": [
+      {
+        "AINode": "AINode"
+      },
+      {
+        "AINode (1)": "AINode (1)"
+      },
+      {
+        "AINode (2)": "AINode (2)"
+      },
+      {
+        "AINode (3)": "AINode (3)"
+      },
+      {
+        "AINode (6)": "AINode (6)"
+      },
+      {
+        "AINodeBehindRocksN": "AINodeBehindRocksN"
+      },
+      {
+        "AINodeBehindRocksS": "AINodeBehindRocksS"
+      },
+      {
+        "AINodeE": "AINodeE"
+      },
+      {
+        "AINodeE1": "AINodeE1"
+      },
+      {
+        "AINodeN": "AINodeN"
+      },
+      {
+        "AINodeN1": "AINodeN1"
+      },
+      {
+        "AINodeS": "AINodeS"
+      },
+      {
+        "AINodeS1": "AINodeS1"
+      },
+      {
+        "AINodeW": "AINodeW"
+      },
+      {
+        "AINodeWCenter (2)": "AINodeWCenter (2)"
+      },
+      {
+        "AINodeWCenterNoProps": "AINodeWCenterNoProps"
+      },
+      {
+        "AirConditionerUnit": "AirConditionerUnit"
+      },
+      {
+        "AlleyExitDoorContainer": "AlleyExitDoorContainer"
+      },
+      {
+        "AlleyExitDoorContainer (1)": "AlleyExitDoorContainer (1)"
+      },
+      {
+        "AlleyExitDoorContainerN": "AlleyExitDoorContainerN"
+      },
+      {
+        "AlleyExitDoorContainerS": "AlleyExitDoorContainerS"
+      },
+      {
+        "AmpBox": "AmpBox"
+      },
+      {
+        "BottomRoomPillar": "BottomRoomPillar"
+      },
+      {
+        "BottomRoomPillar2": "BottomRoomPillar2"
+      },
+      {
+        "BreakerBox": "BreakerBox"
+      },
+      {
+        "BreakerBoxSpawn": "BreakerBoxSpawn"
+      },
+      {
+        "BreakerBoxSpawn (1)": "BreakerBoxSpawn (1)"
+      },
+      {
+        "BreakerBoxSpawn (2)": "BreakerBoxSpawn (2)"
+      },
+      {
+        "BreakerBoxSpawn (3)": "BreakerBoxSpawn (3)"
+      },
+      {
+        "BreakerBoxSpawn (4)": "BreakerBoxSpawn (4)"
+      },
+      {
+        "CartStopper (1)": "CartStopper (1)"
+      },
+      {
+        "CartStopper (2)": "CartStopper (2)"
+      },
+      {
+        "CartStopper (3)": "CartStopper (3)"
+      },
+      {
+        "CartTrack": "CartTrack"
+      },
+      {
+        "CavedInRocksContainer": "CavedInRocksContainer"
+      },
+      {
+        "CaveInRocks": "CaveInRocks"
+      },
+      {
+        "CaveIntersectTileMeshLOD0": "CaveIntersectTileMeshLOD0"
+      },
+      {
+        "CaveIntersectTileMeshLOD1": "CaveIntersectTileMeshLOD1"
+      },
+      {
+        "CaveLongRampTileB": "CaveLongRampTileB"
+      },
+      {
+        "CaveLongRampTileB (3)": "CaveLongRampTileB (3)"
+      },
+      {
+        "CaveLongRampTileB (4)": "CaveLongRampTileB (4)"
+      },
+      {
+        "CaveLongRampTileB (5)": "CaveLongRampTileB (5)"
+      },
+      {
+        "CaveSupportBeams": "CaveSupportBeams"
+      },
+      {
+        "CaveVent": "CaveVent"
+      },
+      {
+        "CaveVent (1)": "CaveVent (1)"
+      },
+      {
+        "CaveWaterConstantParticle": "CaveWaterConstantParticle"
+      },
+      {
+        "CaveWaterDripRandom": "CaveWaterDripRandom"
+      },
+      {
+        "CaveWaterDripRandom (1)": "CaveWaterDripRandom (1)"
+      },
+      {
+        "CaveYTile (1)": "CaveYTile (1)"
+      },
+      {
+        "CaveYTile (2)": "CaveYTile (2)"
+      },
+      {
+        "CaveYTile (3)": "CaveYTile (3)"
+      },
+      {
+        "CaveYTile (4)": "CaveYTile (4)"
+      },
+      {
+        "CaveYTile (5)": "CaveYTile (5)"
+      },
+      {
+        "CeilingBeams (1)": "CeilingBeams (1)"
+      },
+      {
+        "CeilingBeams (2)": "CeilingBeams (2)"
+      },
+      {
+        "Collider": "Collider"
+      },
+      {
+        "Collider (1)": "Collider (1)"
+      },
+      {
+        "Collider (11)": "Collider (11)"
+      },
+      {
+        "Collider (2)": "Collider (2)"
+      },
+      {
+        "Collider (3)": "Collider (3)"
+      },
+      {
+        "Collider (4)": "Collider (4)"
+      },
+      {
+        "Collider (5)": "Collider (5)"
+      },
+      {
+        "Collider (6)": "Collider (6)"
+      },
+      {
+        "Collider (7)": "Collider (7)"
+      },
+      {
+        "Collider (8)": "Collider (8)"
+      },
+      {
+        "Collider (9)": "Collider (9)"
+      },
+      {
+        "Container (1)": "Container (1)"
+      },
+      {
+        "Container (3)": "Container (3)"
+      },
+      {
+        "Container (4)": "Container (4)"
+      },
+      {
+        "ConveyerBelt": "ConveyerBelt"
+      },
+      {
+        "CordsAndChains": "CordsAndChains"
+      },
+      {
+        "CrampedIntersectTileMeshLOD0": "CrampedIntersectTileMeshLOD0"
+      },
+      {
+        "CrampedIntersectTileMeshLOD1": "CrampedIntersectTileMeshLOD1"
+      },
+      {
+        "Cube": "Cube"
+      },
+      {
+        "Cube (1)": "Cube (1)"
+      },
+      {
+        "Cube (10)": "Cube (10)"
+      },
+      {
+        "Cube (11)": "Cube (11)"
+      },
+      {
+        "Cube (12)": "Cube (12)"
+      },
+      {
+        "Cube (13)": "Cube (13)"
+      },
+      {
+        "Cube (15)": "Cube (15)"
+      },
+      {
+        "Cube (16)": "Cube (16)"
+      },
+      {
+        "Cube (17)": "Cube (17)"
+      },
+      {
+        "Cube (18)": "Cube (18)"
+      },
+      {
+        "Cube (19)": "Cube (19)"
+      },
+      {
+        "Cube (2)": "Cube (2)"
+      },
+      {
+        "Cube (20)": "Cube (20)"
+      },
+      {
+        "Cube (21)": "Cube (21)"
+      },
+      {
+        "Cube (23)": "Cube (23)"
+      },
+      {
+        "Cube (24)": "Cube (24)"
+      },
+      {
+        "Cube (25)": "Cube (25)"
+      },
+      {
+        "Cube (26)": "Cube (26)"
+      },
+      {
+        "Cube (27)": "Cube (27)"
+      },
+      {
+        "Cube (28)": "Cube (28)"
+      },
+      {
+        "Cube (29)": "Cube (29)"
+      },
+      {
+        "Cube (3)": "Cube (3)"
+      },
+      {
+        "Cube (30)": "Cube (30)"
+      },
+      {
+        "Cube (34)": "Cube (34)"
+      },
+      {
+        "Cube (35)": "Cube (35)"
+      },
+      {
+        "Cube (36)": "Cube (36)"
+      },
+      {
+        "Cube (37)": "Cube (37)"
+      },
+      {
+        "Cube (38)": "Cube (38)"
+      },
+      {
+        "Cube (39)": "Cube (39)"
+      },
+      {
+        "Cube (4)": "Cube (4)"
+      },
+      {
+        "Cube (40)": "Cube (40)"
+      },
+      {
+        "Cube (41)": "Cube (41)"
+      },
+      {
+        "Cube (5)": "Cube (5)"
+      },
+      {
+        "Cube (6)": "Cube (6)"
+      },
+      {
+        "Cube (7)": "Cube (7)"
+      },
+      {
+        "Cube (8)": "Cube (8)"
+      },
+      {
+        "Cube (9)": "Cube (9)"
+      },
+      {
+        "Cube.000 (1)": "Cube.000 (1)"
+      },
+      {
+        "Cube.000 (2)": "Cube.000 (2)"
+      },
+      {
+        "Cube.003 (5)": "Cube.003 (5)"
+      },
+      {
+        "Cylinder.001 (1)": "Cylinder.001 (1)"
+      },
+      {
+        "Cylinder.001 (2)": "Cylinder.001 (2)"
+      },
+      {
+        "DeepShaftTileMesh": "DeepShaftTileMesh"
+      },
+      {
+        "DoorSpawnPositionA": "DoorSpawnPositionA"
+      },
+      {
+        "DoorSpawnPositionB": "DoorSpawnPositionB"
+      },
+      {
+        "DoorSpawnPositionC": "DoorSpawnPositionC"
+      },
+      {
+        "DoublePipe": "DoublePipe"
+      },
+      {
+        "ElectricGenerator (1)": "ElectricGenerator (1)"
+      },
+      {
+        "ElevatorShaftHoleRailing": "ElevatorShaftHoleRailing"
+      },
+      {
+        "ElevatorSupportBeams": "ElevatorSupportBeams"
+      },
+      {
+        "EntranceTeleportA": "EntranceTeleportA"
+      },
+      {
+        "ForkStairTileMeshLOD0": "ForkStairTileMeshLOD0"
+      },
+      {
+        "ForkStairTileMeshLOD1": "ForkStairTileMeshLOD1"
+      },
+      {
+        "GeneralScrapSpawn": "GeneralScrapSpawn"
+      },
+      {
+        "GiantMineshaftPipe (1)": "GiantMineshaftPipe (1)"
+      },
+      {
+        "GrandTunnelRampMesh": "GrandTunnelRampMesh"
+      },
+      {
+        "HoleRailing (1)": "HoleRailing (1)"
+      },
+      {
+        "Landmine": "Landmine"
+      },
+      {
+        "LargeRoomReverb": "LargeRoomReverb"
+      },
+      {
+        "LiftBasket": "LiftBasket"
+      },
+      {
+        "Light": "Light"
+      },
+      {
+        "Lights": "Lights"
+      },
+      {
+        "LongRampTileMeshLOD0": "LongRampTileMeshLOD0"
+      },
+      {
+        "LongRampTileMeshLOD1": "LongRampTileMeshLOD1"
+      },
+      {
+        "MapHazardSpawnPipe (15)": "MapHazardSpawnPipe (15)"
+      },
+      {
+        "MapHazardSpawnPipe (16)": "MapHazardSpawnPipe (16)"
+      },
+      {
+        "MapHazardSpawnPipe (18)": "MapHazardSpawnPipe (18)"
+      },
+      {
+        "Mesh2": "Mesh2"
+      },
+      {
+        "Minecart": "Minecart"
+      },
+      {
+        "Minecart (1)": "Minecart (1)"
+      },
+      {
+        "Minecart (2)": "Minecart (2)"
+      },
+      {
+        "Minecart (3)": "Minecart (3)"
+      },
+      {
+        "Minecart (4)": "Minecart (4)"
+      },
+      {
+        "Minecart (5)": "Minecart (5)"
+      },
+      {
+        "MineDoorSpawn": "MineDoorSpawn"
+      },
+      {
+        "MineshaftElevator": "MineshaftElevator"
+      },
+      {
+        "MineshaftStartTileMesh": "MineshaftStartTileMesh"
+      },
+      {
+        "neon lights": "neon lights"
+      },
+      {
+        "NorthWallVentSpawn": "NorthWallVentSpawn"
+      },
+      {
+        "Nothing": "Nothing"
+      },
+      {
+        "NurbsPath.001": "NurbsPath.001"
+      },
+      {
+        "PileOfPipes": "PileOfPipes"
+      },
+      {
+        "Pipe.001 (10)": "Pipe.001 (10)"
+      },
+      {
+        "Pipe.001 (11)": "Pipe.001 (11)"
+      },
+      {
+        "Pipe.001 (13)": "Pipe.001 (13)"
+      },
+      {
+        "Pipe.001 (14)": "Pipe.001 (14)"
+      },
+      {
+        "Pipe.001 (15)": "Pipe.001 (15)"
+      },
+      {
+        "Pipe.001 (4)": "Pipe.001 (4)"
+      },
+      {
+        "Pipe.001 (5)": "Pipe.001 (5)"
+      },
+      {
+        "Pipe.001 (6)": "Pipe.001 (6)"
+      },
+      {
+        "Pipe.001 (7)": "Pipe.001 (7)"
+      },
+      {
+        "Pipe.001 (9)": "Pipe.001 (9)"
+      },
+      {
+        "Pipe.002 (3)": "Pipe.002 (3)"
+      },
+      {
+        "Pipe.002 (4)": "Pipe.002 (4)"
+      },
+      {
+        "Pipes1": "Pipes1"
+      },
+      {
+        "Pipes2": "Pipes2"
+      },
+      {
+        "Pipes3": "Pipes3"
+      },
+      {
+        "Pipes4": "Pipes4"
+      },
+      {
+        "PipesWithDial": "PipesWithDial"
+      },
+      {
+        "PropSet2": "PropSet2"
+      },
+      {
+        "PropSetCoveringDoorway": "PropSetCoveringDoorway"
+      },
+      {
+        "RailIntersection": "RailIntersection"
+      },
+      {
+        "RailRamp": "RailRamp"
+      },
+      {
+        "RailRampLower": "RailRampLower"
+      },
+      {
+        "RailRampUpper": "RailRampUpper"
+      },
+      {
+        "Rails": "Rails"
+      },
+      {
+        "RailsAndPlatform": "RailsAndPlatform"
+      },
+      {
+        "RailTurnN": "RailTurnN"
+      },
+      {
+        "RailTurnS": "RailTurnS"
+      },
+      {
+        "ReverbTrigger": "ReverbTrigger"
+      },
+      {
+        "RockPileSmall": "RockPileSmall"
+      },
+      {
+        "RockPileSmall (1)": "RockPileSmall (1)"
+      },
+      {
+        "RockPileTop (1)": "RockPileTop (1)"
+      },
+      {
+        "RopedCrate": "RopedCrate"
+      },
+      {
+        "RopedCrate (1)": "RopedCrate (1)"
+      },
+      {
+        "RopedCrate (2)": "RopedCrate (2)"
+      },
+      {
+        "RopedCrate (3)": "RopedCrate (3)"
+      },
+      {
+        "RopedCratePropSet": "RopedCratePropSet"
+      },
+      {
+        "SafetyCoverPlate": "SafetyCoverPlate"
+      },
+      {
+        "Shelf1 (14)": "Shelf1 (14)"
+      },
+      {
+        "SpikeRoofTrapHazard": "SpikeRoofTrapHazard"
+      },
+      {
+        "Square": "Square"
+      },
+      {
+        "Square (1)": "Square (1)"
+      },
+      {
+        "Square (2)": "Square (2)"
+      },
+      {
+        "Square (3)": "Square (3)"
+      },
+      {
+        "Square (4)": "Square (4)"
+      },
+      {
+        "Square (5)": "Square (5)"
+      },
+      {
+        "Square (6)": "Square (6)"
+      },
+      {
+        "Square (7)": "Square (7)"
+      },
+      {
+        "Square (8)": "Square (8)"
+      },
+      {
+        "SquareB1": "SquareB1"
+      },
+      {
+        "SquareB2": "SquareB2"
+      },
+      {
+        "TablePropSpawn": "TablePropSpawn"
+      },
+      {
+        "TablePropSpawn (1)": "TablePropSpawn (1)"
+      },
+      {
+        "TopOfRampPoles": "TopOfRampPoles"
+      },
+      {
+        "TunnelSplitMesh": "TunnelSplitMesh"
+      },
+      {
+        "TurretContainer": "TurretContainer"
+      },
+      {
+        "VentEntrance": "VentEntrance"
+      },
+      {
+        "VentEntranceCave": "VentEntranceCave"
+      },
+      {
+        "VentSpawnS": "VentSpawnS"
+      },
+      {
+        "VentSpawnSW": "VentSpawnSW"
+      },
+      {
+        "VerticalBeams": "VerticalBeams"
+      },
+      {
+        "VerticalBeams (1)": "VerticalBeams (1)"
+      },
+      {
+        "WallFixtureLight": "WallFixtureLight"
+      },
+      {
+        "WallFixtureLight (1)": "WallFixtureLight (1)"
+      },
+      {
+        "WallFixtureLight (2)": "WallFixtureLight (2)"
+      },
+      {
+        "WallFixtureLight (3)": "WallFixtureLight (3)"
+      },
+      {
+        "WallFixtureLight (4)": "WallFixtureLight (4)"
+      },
+      {
+        "WallFixtureLight (5)": "WallFixtureLight (5)"
+      },
+      {
+        "WallPipes": "WallPipes"
+      },
+      {
+        "Water (1)": "Water (1)"
+      },
+      {
+        "WaterTileMesh": "WaterTileMesh"
+      },
+      {
+        "WaterTileMeshLOD1": "WaterTileMeshLOD1"
+      },
+      {
+        "WaterTrigger": "WaterTrigger"
+      },
+      {
+        "WestWallVentSpawn": "WestWallVentSpawn"
+      },
+      {
+        "WoodPalletPile": "WoodPalletPile"
+      },
+      {
+        "WoodPalletPile2x": "WoodPalletPile2x"
+      },
+      {
+        "YellowMineDoorwayAbsent": "YellowMineDoorwayAbsent"
+      },
+      {
+        "YTileMeshLOD0": "YTileMeshLOD0"
+      },
+      {
+        "YTileMeshLOD1": "YTileMeshLOD1"
+      }
+    ],
+    "Blocker": [
+      {
+        "AlleyExitDoorContainer": "AlleyExitDoorContainer"
+      },
+      {
+        "AlleyExitDoorContainer (1)": "AlleyExitDoorContainer (1)"
+      },
+      {
+        "AlleyExitDoorContainerN": "AlleyExitDoorContainerN"
+      },
+      {
+        "AlleyExitDoorContainerS": "AlleyExitDoorContainerS"
+      },
+      {
+        "BreakerBox": "BreakerBox"
+      },
+      {
+        "BreakerBoxSpawn (2)": "BreakerBoxSpawn (2)"
+      },
+      {
+        "BreakerBoxSpawn (3)": "BreakerBoxSpawn (3)"
+      },
+      {
+        "CaveIntersectTileBlockerE": "CaveIntersectTileBlockerE"
+      },
+      {
+        "CaveIntersectTileBlockerN": "CaveIntersectTileBlockerN"
+      },
+      {
+        "CaveIntersectTileBlockerS": "CaveIntersectTileBlockerS"
+      },
+      {
+        "CrampedIntersectTileBlockerE": "CrampedIntersectTileBlockerE"
+      },
+      {
+        "CrampedIntersectTileBlockerN": "CrampedIntersectTileBlockerN"
+      },
+      {
+        "CrampedIntersectTileBlockerS": "CrampedIntersectTileBlockerS"
+      },
+      {
+        "CrampedIntersectTileBlockerW": "CrampedIntersectTileBlockerW"
+      },
+      {
+        "DeepShaftTileMesh.001": "DeepShaftTileMesh.001"
+      },
+      {
+        "DeepShaftTileMesh.001 (1)": "DeepShaftTileMesh.001 (1)"
+      },
+      {
+        "EastWallProps": "EastWallProps"
+      },
+      {
+        "EntranceTeleportB": "EntranceTeleportB"
+      },
+      {
+        "ForkStairTileBlockerE": "ForkStairTileBlockerE"
+      },
+      {
+        "ForkStairTileBlockerN": "ForkStairTileBlockerN"
+      },
+      {
+        "ForkStairTileBlockerSLeft": "ForkStairTileBlockerSLeft"
+      },
+      {
+        "ForkStairTileBlockerSRight": "ForkStairTileBlockerSRight"
+      },
+      {
+        "LongRampTileBlockerE": "LongRampTileBlockerE"
+      },
+      {
+        "LongRampTileBlockerNLeft": "LongRampTileBlockerNLeft"
+      },
+      {
+        "LongRampTileBlockerNRight": "LongRampTileBlockerNRight"
+      },
+      {
+        "LongRampTileBlockerSLeft": "LongRampTileBlockerSLeft"
+      },
+      {
+        "LongRampTileBlockerSRight": "LongRampTileBlockerSRight"
+      },
+      {
+        "Minecart (2)": "Minecart (2)"
+      },
+      {
+        "NorthWallVentSpawn": "NorthWallVentSpawn"
+      },
+      {
+        "Pipes1": "Pipes1"
+      },
+      {
+        "Pipes3": "Pipes3"
+      },
+      {
+        "Pipes4": "Pipes4"
+      },
+      {
+        "PropSetCoveringDoorway": "PropSetCoveringDoorway"
+      },
+      {
+        "RailStraight": "RailStraight"
+      },
+      {
+        "RailTurnN": "RailTurnN"
+      },
+      {
+        "RailTurnS": "RailTurnS"
+      },
+      {
+        "SouthWallProps": "SouthWallProps"
+      },
+      {
+        "SteamValve": "SteamValve"
+      },
+      {
+        "TunnelDeadEndBlockerB": "TunnelDeadEndBlockerB"
+      },
+      {
+        "TunnelDoorwayBlocker": "TunnelDoorwayBlocker"
+      },
+      {
+        "VentEntrance": "VentEntrance"
+      },
+      {
+        "VentSpawnS": "VentSpawnS"
+      },
+      {
+        "WallPropSet": "WallPropSet"
+      },
+      {
+        "WaterTileBlockerE": "WaterTileBlockerE"
+      },
+      {
+        "WaterTileBlockerN": "WaterTileBlockerN"
+      },
+      {
+        "WaterTileBlockerN1": "WaterTileBlockerN1"
+      },
+      {
+        "WaterTileBlockerS1Partial": "WaterTileBlockerS1Partial"
+      },
+      {
+        "WaterTileBlockerS1Total": "WaterTileBlockerS1Total"
+      },
+      {
+        "WaterTileBlockerSPartial": "WaterTileBlockerSPartial"
+      },
+      {
+        "WaterTileBlockerSTotal": "WaterTileBlockerSTotal"
+      },
+      {
+        "WaterTileBlockerW": "WaterTileBlockerW"
+      },
+      {
+        "WoodPalletPile": "WoodPalletPile"
+      },
+      {
+        "YTileBlockerMiddle": "YTileBlockerMiddle"
+      },
+      {
+        "YTileBlockerNLeft": "YTileBlockerNLeft"
+      },
+      {
+        "YTileBlockerNRight": "YTileBlockerNRight"
+      },
+      {
+        "YTileBlockerS": "YTileBlockerS"
+      },
+      {
+        "YTileBlockerW": "YTileBlockerW"
+      }
+    ]
+  }
+}
